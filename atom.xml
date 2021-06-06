@@ -6,7 +6,7 @@
   <link href="http://bithoxer.github.io/atom.xml" rel="self"/>
   
   <link href="http://bithoxer.github.io/"/>
-  <updated>2021-05-31T18:42:44.492Z</updated>
+  <updated>2021-06-06T11:38:26.591Z</updated>
   <id>http://bithoxer.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>21年6月第2篇周志</title>
+    <link href="http://bithoxer.github.io/2021/06/06/21%E5%B9%B46%E6%9C%88%E7%AC%AC2%E7%AF%87%E5%91%A8%E5%BF%97/"/>
+    <id>http://bithoxer.github.io/2021/06/06/21%E5%B9%B46%E6%9C%88%E7%AC%AC2%E7%AF%87%E5%91%A8%E5%BF%97/</id>
+    <published>2021-06-06T11:25:48.000Z</published>
+    <updated>2021-06-06T11:38:26.591Z</updated>
+    
+    
+    <summary type="html">Hydra与任务</summary>
+    
+    
+    
+    <category term="周志" scheme="http://bithoxer.github.io/categories/%E5%91%A8%E5%BF%97/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>21年6月第1篇周志</title>
@@ -335,23 +352,6 @@
     
     
     <category term="周志" scheme="http://bithoxer.github.io/categories/%E5%91%A8%E5%BF%97/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>洞中人——控制论随笔</title>
-    <link href="http://bithoxer.github.io/2020/12/29/20-12-29%E9%9A%8F%E7%AC%94/"/>
-    <id>http://bithoxer.github.io/2020/12/29/20-12-29%E9%9A%8F%E7%AC%94/</id>
-    <published>2020-12-29T15:57:24.000Z</published>
-    <updated>2020-12-29T16:07:16.776Z</updated>
-    
-    
-    <summary type="html">对维纳的书的一点随笔，老人的自我安慰，相信人类能有这种正视灭亡的勇气与视死如归的高傲。</summary>
-    
-    
-    
-    <category term="随笔" scheme="http://bithoxer.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
   </entry>
